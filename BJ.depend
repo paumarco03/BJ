@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1705411319 source:c:\users\pauma\onedrive\escritorio\daw\bj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
